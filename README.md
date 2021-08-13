@@ -18,17 +18,16 @@ Here are some ideas to get you started:
 
 # Hi, I'm Deborah 👋🏾 👩🏾‍💻
 
-<img src="Git Profile Header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="Git Profile Header.png" 
 I am a final year Electrical and Electronic Engineering student at the University of Ibadan, Nigeria.
 Some technologies I enjoy working with include Mobile application development (Kotlin and Flutter) and IOT. Also, I have technical skills such as Programming in C++, Python, Web development, Data structure and Algorithm, System Design, and Architecture. I have more than 2years of work experience which includes; internships, working on projects, building mobile applications, etc.
+     
+## Community Engagement
 I enjoy giving back to my community, and I actively volunteer to participate in community-building activities such as organizing events, speaking engagements, taking workshop sessions, etc. I have volunteered and served in more than 5 top local and international student communities in and out of my campus. These experiences had helped me acquire soft skills such as leadership, team playing, critical thinking, problem-solving, communication, time management, etc.
-Deborah is passionate about self-development, and she constantly learns and seeks opportunities to hone and develop her technical and soft skills.
-I’m purpose-driven, creative, curious, proactive, self-driven, agile, and open-minded. I‘m on the lookout for Software Engineering Internships and job opportunities, Educational programs and scholarships, tech community engagements, mentorship, fellowship and volunteering opportunities.
+
 
 ## Others
-
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for Software Engineering (Internship and full time) role
+- 💼 I’m open for Software Engineering (Internship and full time) role, Educational programs and scholarships, tech community engagements, mentorship, fellowship and volunteering opportunities. 
 - 📫 How to reach me: josephdeborah506@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love hardware 
