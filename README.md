@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **josdebum/josdebum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,26 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
+# Hi, I'm Deborah 👋🏾 👩🏾‍💻
 
 <img src="Git Profile Header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+I am a final year Electrical and Electronic Engineering student at the University of Ibadan, Nigeria.
+Some technologies I enjoy working with include Mobile application development (Kotlin and Flutter) and IOT. Also, I have technical skills such as Programming in C++, Python, Web development, Data structure and Algorithm, System Design, and Architecture. I have more than 2years of work experience which includes; internships, working on projects, building mobile applications, etc.
+I enjoy giving back to my community, and I actively volunteer to participate in community-building activities such as organizing events, speaking engagements, taking workshop sessions, etc. I have volunteered and served in more than 5 top local and international student communities in and out of my campus. These experiences had helped me acquire soft skills such as leadership, team playing, critical thinking, problem-solving, communication, time management, etc.
+Deborah is passionate about self-development, and she constantly learns and seeks opportunities to hone and develop her technical and soft skills.
+I’m purpose-driven, creative, curious, proactive, self-driven, agile, and open-minded. I‘m on the lookout for Software Engineering Internships and job opportunities, Educational programs and scholarships, tech community engagements, mentorship, fellowship and volunteering opportunities.
+
+## Others
+
+- 👯 I’m looking to collaborate on Projects
+- 🤔 I’m looking for Software Engineering (Internship and full time) role
+- 📫 How to reach me: josephdeborah506@gmail.com
+- 😄 Pronouns: She
+- ⚡ Fun fact: I love hardware 
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Linkedln <a href="https://www.linkedin.com/in/deborah-oluwabunmi-joseph-603498159/">Linkedln</a>
+- Twitter <a href="https://twitter.com/josdebum"> Twitter</a>
+- Medium <a href="https://medium.com/@josdebum">Medium</a>
+- Instagram <a href="https://instagram.com/josdebum">Instagram</a>
