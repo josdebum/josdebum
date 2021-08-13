@@ -23,7 +23,7 @@ I am a final year Electrical and Electronic Engineering student at the Universit
 Some technologies I enjoy working with include Mobile application development (Kotlin and Flutter) and IOT. Also, I have technical skills such as Programming in C++, Python, Web development, Data structure and Algorithm, System Design, and Architecture. I have more than 2years of work experience which includes; internships, working on projects, building mobile applications, etc.
      
 ## Community Engagement
-I enjoy giving back to my community, and I actively volunteer to participate in community-building activities such as organizing events, speaking engagements, taking workshop sessions, etc. I have volunteered and served in more than 5 top local and international student communities in and out of my campus. These experiences had helped me acquire soft skills such as leadership, team playing, critical thinking, problem-solving, communication, time management, etc.
+I volunteer to participate in community-building activities such as organizing events, speaking engagements, taking workshop sessions, etc. I have volunteered and served in more than 5 top local and international student communities in and out of my campus. These experiences had helped me acquire soft skills such as leadership, team playing, critical thinking, problem-solving, communication, time management, etc.
 
 
 ## Others
