@@ -28,7 +28,7 @@ Some technologies I enjoy working with include Mobile application development (K
 - Anitab Org Scholar'21
 - Google Inside Look 2020 Participant
 
-Throught these experiences, I have been able to acquire soft skills such as leadership, team playing, critical thinking, problem-solving, communication, time management, etc.
+Through these experiences, I have been able to acquire soft skills such as leadership, team playing, critical thinking, problem-solving, communication, time management, etc.
 
 
 ## Others
