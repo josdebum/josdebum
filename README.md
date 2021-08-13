@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Deborah 👋🏾 👩🏾‍💻
 
-<img src="Git Profile Header 1.png" />
+<img src="Git Profile Header 1 (2).png" />
 I am a final year Electrical and Electronic Engineering student at the University of Ibadan, Nigeria.
 Some technologies I enjoy working with include Mobile application development (Kotlin and Flutter) and IoT. Also, I have technical skills such as Programming in C++, Python, Web development, Data structure and Algorithm, System Design, and Architecture. I have about 2years of work experience which includes; internships, working on projects, building mobile applications, etc. Check out my repositories to view projects I've worked on🙂
      
@@ -28,7 +28,6 @@ Some technologies I enjoy working with include Mobile application development (K
 - Anitab Org Scholar'21
 - Google Inside Look 2020 Participant
 
-I volunteer to participate in community-building activities such as organizing events, speaking engagements, taking workshop sessions, etc. 
 Throught these experiences, I have been able to acquire soft skills such as leadership, team playing, critical thinking, problem-solving, communication, time management, etc.
 
 
