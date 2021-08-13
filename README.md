@@ -27,6 +27,7 @@ Some technologies I enjoy working with include Mobile application development (K
 - Program Cordinator - Women Tech Maker Ibadan
 - Anitab Org Scholar'21
 - Google Inside Look 2020 Participant
+
 I volunteer to participate in community-building activities such as organizing events, speaking engagements, taking workshop sessions, etc. 
 These experiences had helped me acquire soft skills such as leadership, team playing, critical thinking, problem-solving, communication, time management, etc.
 
