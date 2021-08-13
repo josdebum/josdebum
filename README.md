@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Deborah 👋🏾 👩🏾‍💻
 
-<img src="Git Profile Header.png" 
+<img src="Git Profile Header.png" />
 I am a final year Electrical and Electronic Engineering student at the University of Ibadan, Nigeria.
 Some technologies I enjoy working with include Mobile application development (Kotlin and Flutter) and IOT. Also, I have technical skills such as Programming in C++, Python, Web development, Data structure and Algorithm, System Design, and Architecture. I have more than 2years of work experience which includes; internships, working on projects, building mobile applications, etc.
      
