@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Deborah Oluwabunmi Joseph!  
 🚀 Mobile Engineer | Flutter | Android | iOS | AI & Business-Tech  
 
-## 👋 About Me  
+## 👩‍💻 About Me  
 🛠️ **Software Engineer** with **5 years of experience** in **building scalable mobile applications**.  
 📱 Expertise in **Flutter, Dart, Kotlin, and Swift**, focusing on **user-centric, high-quality solutions**.  
 🚀 **Built and optimized** mobile applications used by **100 to 50,000+ users**.  
