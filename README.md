@@ -10,13 +10,11 @@
 🤖 Actively **exploring AI integration in mobile development** and contributing to **open-source projects**.  
 
 ## 🛠️ Tech Stack & Tools  
-![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin)  
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)  
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapi)  
+## 🛠️ Tech Stack & Tools  
+![Flutter](https://img.shields.io/badge/Framework-Flutter-blue)  
+![Dart](https://img.shields.io/badge/Language-Dart-0175C2)  
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-0095D5)  
+![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28)  
 
 ## 🤝 Let's Connect  
 🌍 **Portfolio:** [your-website.com](https://zaap.bio/josdebum)  
