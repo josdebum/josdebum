@@ -9,13 +9,12 @@
 ⚡ Passionate about **scalable, high-performance mobile apps** and **AI-driven innovations**.  
 🤖 Actively **exploring AI integration in mobile development** and contributing to **open-source projects**.  
 
-## 🛠️ Tech Stack & Tools  
-## 🛠️ Tech Stack & Tools  
-![Flutter](https://img.shields.io/badge/Framework-Flutter-blue)  
-![Dart](https://img.shields.io/badge/Language-Dart-0175C2)  
-![Kotlin](https://img.shields.io/badge/Language-Kotlin-0095D5)  
-![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28)  
-
+## 🛠️ Tech Stack & Tools   
+**Languages & Frameworks:** Flutter, Dart, Kotlin, Swift  
+**Backend & Databases:** Firebase, Cloud Firestore, REST APIs  
+**AI & ML:** TensorFlow, Firebase ML Kit  
+**Development Tools:** Git, OpenAPI, Postman, Figma  
+ 
 ## 🤝 Let's Connect  
 🌍 **Portfolio:** [your-website.com](https://zaap.bio/josdebum)  
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/deborah-oluwabunmi-joseph/)  
