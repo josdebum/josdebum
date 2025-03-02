@@ -18,9 +18,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)  
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapi)  
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
 ## 🤝 Let's Connect  
 🌍 **Portfolio:** [your-website.com](https://zaap.bio/josdebum)  
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/deborah-oluwabunmi-joseph/)  
