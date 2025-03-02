@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Deborah Oluwabunmi Joseph!  
 🚀 Mobile Engineer | Flutter | Android | iOS | AI & Business-Tech  
 
+I am a **Software Engineer** with **5 years of experience** in **building scalable mobile applications**. My expertise spans **Flutter, Dart, Kotlin, and Swift**, with a **user-centric approach** to delivering **high-quality solutions** for **100 to 50,000+ users**.  
+
 💡 Passionate about building **scalable, high-performance mobile applications** and exploring **AI-driven solutions** in app development.  
+
 🔭 Currently working as a Mobile Engineer at Nestcoin, building and contributing to web3 and crypto-native solutions that empower everyday people in frontier markets.
+
 🌱 Exploring **AI integration in mobile applications** and contributing to **open-source projects**.  
 
 ## 🛠️ Tech Stack & Tools  
